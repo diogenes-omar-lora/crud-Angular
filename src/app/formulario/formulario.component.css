@@ -1,0 +1,25 @@
+.bton{
+    margin: 5px 3px;
+    border: none;
+    border-radius: 5px;
+}
+.E{
+    background-color: #dd3243;
+}
+.G{
+    background-color: #2a9b20;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    -webkit-box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.26); 
+box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.26);
+}

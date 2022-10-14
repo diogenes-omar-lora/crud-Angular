@@ -1,1 +1,7 @@
 
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+    background: rgb(0,90,167);
+background: linear-gradient(153deg, rgba(0,90,167,1) 20%, rgba(255,253,228,1) 76%);
+background-repeat: no-repeat;
+}

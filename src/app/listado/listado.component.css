@@ -1,0 +1,16 @@
+.bton{
+    margin: 0px 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.E{
+    background-color: #e4d12e;
+}
+.G{
+    background-color: #dd3243;
+}
+.card{
+    -webkit-box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.26); 
+box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.26);
+}
